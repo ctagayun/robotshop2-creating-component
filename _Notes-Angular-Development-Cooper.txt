@@ -26,6 +26,8 @@ Module 3: Creating Components
           change src=assets/images/robot-parts/head-big-eye.png
                  src=assets/images/robot-parts/head-friendly.png
 
+      - /assets means - "/" means root URL of our websites then assets
+
 ===================================
 Useful Links
 ==================================

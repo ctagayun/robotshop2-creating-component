@@ -46,6 +46,7 @@ Module 3: Creating Components
            onInit - occurs only once. frequently used for fetch daa
            onDestroy - occurs only once. used to cleanup
 
+   - ng generate component catalog
 ===================================
 Useful Links
 ==================================
